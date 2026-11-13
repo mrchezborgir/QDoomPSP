@@ -1,2 +1,3 @@
 # QDoomPSP
-I have been developing a demake of id software's DOOM2016 to run on the psp
+This project is all about creating a demake of ID software's DOOM 2016 in the Quake engine to make it run on the psp. The goal is to first get it running on the psp 3000/2000, and later on i will see if i can port it to the 1000 as well. Note- this project is in no affiliation of id software or bethesda softworks and is made purely for hobby purposes.
+The game is being made using [Insomnia-ProQuakePSP](https://www.gamebrew.org/wiki/Insomnia_ProQuake_PSP).
