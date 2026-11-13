@@ -13,6 +13,8 @@ I am using quite a few different tools for this project.
 
 My ultimate goal for this project is to create a similar gameplay feel on the psp, as in DOOM 2016. 
 
+<img width="500" height="236" alt="41Cw7Wi8RRL" src="https://github.com/user-attachments/assets/1e8154a8-9a3c-4668-bee6-78460025e609" />
+
 # Features
 
 I am planning on developing this project for a while. I want to integrate as many things as possible, while still making it run on original hardware.
