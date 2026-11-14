@@ -18,6 +18,6 @@ My ultimate goal for this project is to create a similar gameplay feel on the ps
 # Features
 
 I am planning on developing this project for a while. I want to integrate as many things as possible, while still making it run on original hardware.
-The mod will be having all 8 guns from the game, and the chainsaw. There will be integration of glory kills, though they probably wont look as cool and cinematic.
+The mod will be having all 10 weapons from the game, and the grenades and stuff. There will be integration of glory kills, though they probably wont look as cool and cinematic.
 I am also planning on making all 13 stages of the game. The stages will be in multiple pieces so that the engine doesnt choke itself while trying to render the huge maps. I will add the bosses, and the enemies. The parkour element will be a challenge because of the PSP's control layout, however I am trying to find a way to make the game feel comfortable and still effective.
 The controls might feels a bit weird at first but im sure they will start to feel normal after a while. and NO i wont be developing this for the vita because 1) I dont own a vita, 2) there is already someone working on a doom clone for the vita, and 3) psp is cooler.
