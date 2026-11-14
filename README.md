@@ -3,7 +3,7 @@ This project is all about creating a demake of ID software's DOOM 2016 in the Qu
 Note- this project is in no affiliation of id software or bethesda softworks and is made purely for hobby purposes.
 The game is being made using [Insomnia-ProQuakePSP](https://www.gamebrew.org/wiki/Insomnia_ProQuake_PSP).
 
-<img width="900" height="500" alt="Screenshot 2026-11-14 000629" src="https://github.com/user-attachments/assets/5623c9d7-c49c-404d-860e-c22d72d56b61" />
+<img width="900" height="500" alt="doom2" src="https://github.com/user-attachments/assets/6b128c44-69e8-4258-8fa5-bb48d9aa07e9" />
 
 # Making
 I am using quite a few different tools for this project.
