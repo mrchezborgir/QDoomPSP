@@ -24,3 +24,15 @@ The mod will be having all 10 weapons from the game, and the grenades and stuff.
 I am also planning on making all 13 stages of the game. The stages will be in multiple pieces so that the engine doesnt choke itself while trying to render the huge maps. I will add the bosses, and the enemies. The parkour element will be a challenge because of the PSP's control layout, however I am trying to find a way to make the game feel comfortable and still effective.
 
 The controls might feels a bit weird at first but im sure they will start to feel normal after a while. and NO i wont be developing this for the vita because 1) I dont own a vita, 2) there is already someone working on a doom clone for the vita, and 3) psp is cooler.
+
+The current control scheme being used is-
+
+1) Analog nub for movement
+2) Face buttons for camera movement
+3) L shoulder button for melee/glory kills
+4) R shoulder button for shooting
+5) Start button for jumping
+6) Select button for crouching
+7) D-pad left/right for changing guns
+8) D-pad up for pause
+9) D-pad down for 'use'
